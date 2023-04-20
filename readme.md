@@ -1,9 +1,5 @@
-<h1 align="center">Hi 👋, I'm Francisco Alonso Salazar Ballinas</h1>
-<h3 align="center">Full-Stack-Developer</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=franciscosalazarb&label=Profile%20views&color=0e75b6&style=flat" alt="franciscosalazarb" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=franciscosalazarb" alt="franciscosalazarb" /></a> </p>
+<h1>Hi 👋, I'm Francisco Alonso Salazar Ballinas &#129299;</h1>
+<h3>Full-Stack-Developer</h3>
 
 - 🔭 I’m currently working on [MWConsultores](https://www.mwc.com.mx/)
 
