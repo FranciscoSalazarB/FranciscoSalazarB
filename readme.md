@@ -5,8 +5,6 @@
 > &nbsp;
 <br>
 
-- 🔭 I’m currently working on [MWConsultores](https://www.mwc.com.mx/)
-
 - 📫 How to reach me **franciscoalonso.salazarballinas@gmail.com**
 
 - ⚡ Fun fact **I love maths**
